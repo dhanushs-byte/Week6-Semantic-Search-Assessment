@@ -1,0 +1,10 @@
+ACCOUNT SECURITY MANUAL
+
+Password reset
+Users who forget a password can select Forgot Password on the sign-in page. A reset link is sent to the registered email address. The link expires after a limited period. Users should create a unique password.
+
+Multi-factor authentication
+Employees should enable multi-factor authentication for company accounts. Never share one-time codes or passwords with another person.
+
+Incident reporting
+Report suspicious sign-in activity to the IT help desk. The support team may temporarily lock an account while investigating a security incident.

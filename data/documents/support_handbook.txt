@@ -1,0 +1,10 @@
+CUSTOMER SUPPORT HANDBOOK
+
+Creating a ticket
+A support ticket should include a clear subject, a description of the problem, the affected product and any relevant error message. Attach screenshots only when they do not expose passwords or private information.
+
+Priority levels
+Critical incidents affect many users or prevent an essential service from operating. High priority issues affect an important workflow. Normal requests are handled in received order.
+
+Response and escalation
+The support team acknowledges requests and assigns them to the appropriate specialist. Urgent technical incidents are escalated to the on-call engineer. Customers can check ticket status through the support portal.

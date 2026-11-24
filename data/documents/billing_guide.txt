@@ -1,0 +1,10 @@
+CUSTOMER BILLING GUIDE
+
+Monthly invoices
+A monthly invoice lists the subscription plan, billing period, applicable taxes and total amount due. Customers can download invoices from the Billing section of their account.
+
+Payment methods
+Customers can update an expired card or choose another supported payment method in account settings. A payment receipt is available after a successful transaction.
+
+Billing questions
+Contact the billing support team if an invoice contains an unexpected charge. Include the invoice number when requesting help.
